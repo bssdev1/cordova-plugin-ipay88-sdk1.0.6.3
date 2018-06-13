@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-ipay88",
+  "version": "0.0.1",
+  "description": "Cordova Library for integrating with the iPay88 payment gateway's mobile SDK.",
+  "cordova": {
+    "id": "Cordova-plugin-ipay88",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bssdev1/Cordova-plugin-ipay88.git"
+  },
+  "license": "ISC",
+  "main": "www/iPay88.js",
+  "keywords": [
+    "ipay88",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "ben"
+}
